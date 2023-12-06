@@ -24,4 +24,5 @@ using data science techniques in Python.
 We are required to accomplish a MINIMUM of 2 TASKS
 from the list of assigned tasks provided within your
 internship program.
+
 So, I chose:- 2. Titanic classifier and 3. Cat and Dog Image Classifier.
